@@ -1,0 +1,25 @@
+{
+  "name": "appsync-be",
+  "private": true,
+  "version": "1.0.0",
+  "description": "back end fo rappsync dev",
+  "main": "index.js",
+  "scripts": {
+    "sls": "sls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teknaut/appsync-be.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teknaut/appsync-be/issues"
+  },
+  "homepage": "https://github.com/teknaut/appsync-be#readme",
+  "devDependencies": {
+    "serverless": "^2.59.0",
+    "serverless-appsync-plugin": "^1.12.0"
+  }
+}
